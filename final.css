@@ -1,0 +1,40 @@
+img{
+
+    width: 350px;
+    margin: 20px;
+
+}
+
+img,p{
+
+    display: inline-block;
+
+}
+
+p{
+
+
+    margin: 20px;
+    font-size: 20px;
+    position: absolute;
+
+}
+
+button {
+    background-color: brown;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+button:hover {
+    background-color: #5a809e;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
